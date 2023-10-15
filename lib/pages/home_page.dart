@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-            "Catalog App"), //title ek widget leta hai(ie; text), agar string leta toh simply string pass kr dete --------------------- --------------------------- -----------------
+            "Catalog App"), //title ek widget leta hai(ie; text), agar string leta toh simply string pass kr dete
       ),
       body: Center(
         child: Container(
